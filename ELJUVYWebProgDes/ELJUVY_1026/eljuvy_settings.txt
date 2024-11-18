@@ -1,0 +1,4 @@
+-"Prettier" letöltve
+-"Live server" letöltve
+-"Dark Theme" beállítva
+-Automatikus mentés bekapcsolva
